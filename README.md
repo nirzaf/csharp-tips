@@ -1,6 +1,4 @@
 # Ten Tips for the C# Developer
-This is the repository for the **LinkedIn** Learning course `Ten tips for the C# developer`. The full course is available from [LinkedIn Learning](https://linkedin.com/learning).
-
 
 ## Tips and Techniques
 Discover tips and techniques that can make working with C# simpler, faster, and more interesting. 
@@ -16,3 +14,4 @@ The branches are structured to correspond to the videos in the course. The namin
 1. For this course the instructor uses Visual Studio 2019, any edition is sufficient (Community, Professional, Enterprise). 
 2. LINQPad is another tool shown in this course.  Get a free copy at [Linqpad.net](https://linqpad.net)
 3. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like Visual Studio or SourceTree.
+
